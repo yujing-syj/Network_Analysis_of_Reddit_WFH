@@ -49,3 +49,16 @@ pip install -r requirements.txt
   -  Topic modeling for the posts by three seperate years. 
   -  Topic modeling for the posts by four different periods when post positive rate is high.
 - The results of sentiment analysis and topic modeling are in `temporal analysis.ipynb`. I run this part of code in local computer. 
+
+## Key Findings:
+
+![image](https://user-images.githubusercontent.com/89925326/194399703-5e0955e5-eeb9-4062-aad3-7a6da36ac684.png)
+![image](https://user-images.githubusercontent.com/89925326/194399776-37ba0616-9864-4fd7-8df2-542194ab3a22.png)
+![image](https://user-images.githubusercontent.com/89925326/194399815-390e3a74-d2b5-4636-955e-c602308c8894.png)
+![image](https://user-images.githubusercontent.com/89925326/194399866-8233ee73-8dd1-43df-8a9d-0cd09f037929.png)
+![image](https://user-images.githubusercontent.com/89925326/194399928-c472664f-8db6-41de-8407-f92ddf8094c2.png)
+![image](https://user-images.githubusercontent.com/89925326/194399974-b10361b5-89ea-476d-ac04-cedb548d5584.png)
+![image](https://user-images.githubusercontent.com/89925326/194400037-d6fb7632-cb12-4fc0-a419-05e6e82a02f3.png)
+![image](https://user-images.githubusercontent.com/89925326/194400096-72451812-7234-4fc2-9cc7-ee5d3f6849fb.png)
+![image](https://user-images.githubusercontent.com/89925326/194400141-f078ec33-dbb3-45af-8617-731c83e0f4e2.png)
+![image](https://user-images.githubusercontent.com/89925326/194400168-98bc3de2-b86c-47bb-9dc7-bf934f5061c9.png)
